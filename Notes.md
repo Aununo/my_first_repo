@@ -108,3 +108,8 @@ I add how to [activate WebStorm2023.3.2](https://jihuo.live/2024/01/10/webstorm-
 
 ### Edit Workspace in VScode
 
+### Google update
+
+[【Chrome自动更新修复】检查更新时出错：无法启动更新检查（错误代码为 4: 0x80070005 -- system level）](https://blog.csdn.net/qq_16763983/article/details/126216331)
+
+
