@@ -1,6 +1,6 @@
 ### Ubuntu
 
-1. `sudo apt update` or `sudo apt-get update` and `sudo apt upgrade`
+1. `sudo apt update` or `sudo apt-get update` and `sudo apt upgrade`\\
 This command is used to update the Ubuntu system package list. In Linux, apt is the abbreviation of Advanced Package Tool, which is a package management tool used to install, upgrade and remove software packages. The update subcommand is used to download the latest package information, but does not install or upgrade the package itself.
 The apt-get tool is an old tool, and apt is considered an enhancement to apt-get.
 
