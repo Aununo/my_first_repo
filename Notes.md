@@ -63,30 +63,6 @@ sage中的矩阵运算
 2. Windows: VMware player | windows virtual PC
 3. MacOS: QEMU | parallels
 
-### kali linux
-
-#### install kali linux in the virtual box (Windows)
-
-1. download and install [virtual box](https://www.virtualbox.org/wiki/Downloads).
-2. head over to the [kali linux](https://www.kali.org/get-kali/#kali-virtual-machines)
-3. path`D:/ISO/Linux/kali-linux-2023.4-virtualbox-amd64`
-
-#### run
-
-1. default admin and password: kali & kali.
-2. You can customize the size of window and fonts in terminal by
-`File - Preference - Appearance - Font change - 20pt`
-3. update the package index.
-`sudo apt-get update`
-4. ensure all installed packages are brought up to their latest versions.
-`sudo apt-get upgrade`
-5. tidy up and clear some space.
-`sudo apt-get autoremove`
-6. remove any downloaded packages that are no long needed.
-`sudo apt-get clean`
-7. clear the terminal.
-`clear`
-
 ### Related Websites
 
 [爆肝一天，国内外所有GPT完全注册教程-保姆级教程（附带GPT和Plus以及本地部署教程)](https://zhuanlan.zhihu.com/p/648732646)
