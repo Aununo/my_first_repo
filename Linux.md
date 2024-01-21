@@ -28,3 +28,10 @@ The apt-get tool is an old tool, and apt is considered an enhancement to apt-get
 `sudo apt-get clean`
 7. clear the terminal.
 `clear`
+
+### WSL --Ubuntu
+Installing, this may take a few minutes...
+WslRegisterDistribution failed with error: 0x80370114
+Error: 0x80370114 ??????????????????
+
+Press any key to continue...
