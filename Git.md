@@ -23,3 +23,12 @@
 `git push -u origin <branch_name>` 如果是第一次推送需要添加-u
 
 `git pull origin main --allow-unrelated-histories` 强制合并不相关的历史记录
+
+When I use `git push origin main`
+
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+Please make sure you have the correct access rights
+and the repository exists.
+
+[ssh git clone](https://gist.github.com/Tamal/1cc77f88ef3e900aeae65f0e5e504794)
