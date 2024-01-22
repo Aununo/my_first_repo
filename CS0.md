@@ -74,3 +74,5 @@ and the repository exists.
 
 ### Edge
 自动导入书签
+
+### Notion
