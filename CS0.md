@@ -68,3 +68,6 @@ Please make sure you have the correct access rights
 and the repository exists.
 
 [ssh git clone](https://gist.github.com/Tamal/1cc77f88ef3e900aeae65f0e5e504794)
+
+### Wolfram
+`Plot[x^2+y^2, {x, -3, 3}, {y, -3, 3}]`
