@@ -76,3 +76,5 @@ and the repository exists.
 自动导入书签
 
 ### Notion
+
+我无法连接至pinterest.jp
