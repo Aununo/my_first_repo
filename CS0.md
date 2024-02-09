@@ -46,6 +46,8 @@ I add how to [activate WebStorm2023.3.2](https://jihuo.live/2024/01/10/webstorm-
 
 `ls -a` (确认当前仓库是否为github仓库)
 
+或者进入本地仓库，右键`open git bash here`.
+
 `git add .`
 
 `git commit -m "描述你的更改"`
@@ -59,6 +61,8 @@ I add how to [activate WebStorm2023.3.2](https://jihuo.live/2024/01/10/webstorm-
 `git push -u origin <branch_name>` 如果是第一次推送需要添加-u
 
 `git pull origin main --allow-unrelated-histories` 强制合并不相关的历史记录
+
+问题已经解决，换了个网...
 
 When I use `git push origin main`
 
