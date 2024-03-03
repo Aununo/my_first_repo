@@ -11,8 +11,6 @@
 
 ### Related Websites
 
-[爆肝一天，国内外所有GPT完全注册教程-保姆级教程（附带GPT和Plus以及本地部署教程)](https://zhuanlan.zhihu.com/p/648732646)
-
 [Git官方教程](https://git-scm.com/book/en/v2)
 
 [Git分布式管理](https://www.educoder.net/paths/cgknh4of)
@@ -23,9 +21,8 @@
 
 [adityatelange.in](https://adityatelange.in/)
 
-### Local Website
 
-Here we have an awesome tutorial [快速搭建个人博客——保姆级教程](https://pdpeng.github.io/2022/01/19/setup-personal-blog/)
+
 I add how to [activate WebStorm2023.3.2](https://jihuo.live/2024/01/10/webstorm-2023-3-2-%E6%BF%80%E6%B4%BB%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/)
 
 ### Edit Workspace in VScode
@@ -74,11 +71,12 @@ and the repository exists.
 [ssh git clone](https://gist.github.com/Tamal/1cc77f88ef3e900aeae65f0e5e504794)
 
 ### Wolfram
+
 `Plot[x^2+y^2, {x, -3, 3}, {y, -3, 3}]`
 
-### Edge
-自动导入书签
-
-### Notion
-
 我无法连接至pinterest.jp
+
+### Manim
+
+已经成功安装manimgl和ffmpeg，无法运行。待解决。
+
