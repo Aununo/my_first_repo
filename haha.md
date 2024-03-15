@@ -85,3 +85,10 @@ and the repository exists.
 fatal: unable to access 'https://github.com/username/username.github.io.git/': Failed to connect to github.com port 443 after 21089 ms: Couldn't connect to server
 FATAL Something's wrong. Maybe you can find the solution here: https://hexo.io/docs/troubleshooting.html
 
+Win+r 运行
+%temp%
+每日清缓存
+cleanmgr
+磁盘清理
+mrt
+恶意软件清理
