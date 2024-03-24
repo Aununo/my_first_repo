@@ -4,9 +4,11 @@
 
 [【Chrome自动更新修复】检查更新时出错：无法启动更新检查（错误代码为 4: 0x80070005 -- system level）](https://blog.csdn.net/qq_16763983/article/details/126216331)
 
-## Manim
+## Manim (Solved)
 
-已经成功安装 manimgl 和 ffmpeg，无法运行。待解决。
+[安装指南 -ManimGL 文档](https://docs.manim.org.cn/getting_started/installation.html)，在桌面 clone 存储库，`git clone git@github.com:3b1b/manim.git`，命令行`cd manim`，注意使用 pip 安装 manimgl 时，应使用 `pip install -e C:\User\Username\manim`，且文档提供的两种方法不要同时使用。
+
+example_scenes.py 文件里好像有旧版本冲突的问题。
 
 ## hexo (Solved)
 
